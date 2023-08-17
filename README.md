@@ -1,39 +1,46 @@
 ---
 layout: home
-title: Just the Class
+title: Foundations of Modern Machine Learning
 nav_exclude: true
 permalink: /:path/
 seo:
-  type: Course
-  name: Just the Class
+  type: CIS 7000
+  name: Foundations of Modern Machine Learning - Theory and Empirics
 ---
 
-# Just the Class
+- **Lecture time**: Tuesdays and Thursdays 1:45-3:15 PM
+- **Lecture location**: Zoom (for September), DRLB 3C8
+- **Instructors**: [Surbhi Goel](https://www.surbhigoel.com) (surbhig)
+- **Instructor office hours**: Tuesday at 10:30-11:30AM (Zoom / Levine 505)
+- **Questions**: We will be using Ed Discussion for all course communications. You can post privately on Ed to contact me, when needed.
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+**Waitlist information**: This course is capped at 25, and will require active participation from the students including role-playing style discussions, and paper presentations. If you are on the waitlist and you think the course is a good fit for you, please email me.
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+## Course Overview
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+This advanced graduate-level course will focus on the latest theoretical and empirical developments in modern machine learning, with a primary focus on deep learning. We will explore cutting-edge machine learning methods such as transformers, diffusion models, self-supervised learning, and more, with an emphasis on the conceptual basis behind their design, success, and limitations. In addition to evaluating in-distribution performance, we will also assess out-of-distribution performance, robustness, emergent behavior, and optimization challenges and mysteries of these models. We will cover classical theoretical results in statistical machine learning and optimization, and explore their connections (or lack thereof) to recent empirical and theoretical research findings.
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+The [course schedule](calendar.md) contains the tentative schedule including topics we will cover in the lectures and relevant reading material. Please refer [here](about.md) for the more information on the course along with the course policies.
 
-## Getting Started
+## Format
+This course will feature a combination of lectures, and student presentations, with a significant portion of class time dedicated to in-depth discussions of the presented material. There will also be a few guest lectures from leading researchers from industry and academia. The paper discussions will involve role-playing inspired by [Alec Jacobson and Colin Raffel](https://colinraffel.com/blog/role-playing-seminar.html). We will be adopting a subset of the following roles:
 
-Getting started with Just the Class is simple.
+- Reviewer: The paper has been submitted to NeurIPS, and you have been assigned to review it. Follow the [review form](https://neurips.cc/Conferences/2023/ReviewerGuidelines) from NeurIPS as a guideline and submit a review for this paper. 
+- Archaeologist: You’re an archeologist who must determine where this paper sits in the context of previous work. You must find and report on atleast one _older_ paper cited within the current paper that substantially influenced the current paper and atleast one _newer_ paper that cites this current paper. Look out for follow-up work that offers criticism of the current paper.
+- Student Researcher: You are looking for a new research problem and the paper piqued your interest. You have to come up with follow-up project ideas based on the paper. These can be direct improvements of the paper, or projects that use the papers results as building blocks.
+- Reproducibility Checker: You want to check whether the claims of the paper are valid. You decide to create a small experiment (toy dataset, or toy model) and verify if the results hold. Make sure to check how robust they are to various choice of hyperparameters.
+- Quanta Correspondent: You want to write an article on the paper for Qanta. You must explain to a broad audience the main problem the paper is addressing, why it is impotant, and what the main technical contribution is.
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
+## Prerequisites
+There are no official prerequisites but a good grasp of probability, linear algebra, machine learning is expected. The following books are useful for background reading.
 
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
+- Machine Learning (ML) by Tom Mitchell. Available as PDF [here](http://www.cs.cmu.edu/~tom/mlbook.html). A classic introduction to machine learning that assumes no knowledge of statistics or artificial intelligence. 
+- Elements of Statistical Learning (ESL) by Trevor Hastie, Robert Tibshirani and Jerome Friedman. Available as PDF [here](https://hastie.su.domains/Papers/ESLII.pdf).
+- Probabilistic Machine Learning: An Introduction (PML) by Kevin Murphy. Available as PDF [here](https://probml.github.io/pml-book/book1.html).
+- Understanding Machine Learning: From Theory to Algorithms (UML) by Shai Shalev-Shwartz and Shai Ben-David. Available as PDF [here](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf). Refer to this book for a more detailed theoretical exposition of the material covered in class.
+- Mathematics for Machine Learning (MML) by Marc Deisenroth, A. Aldo Faisal, and Cheng Soon Ong. Available as PDF [here](https://mml-book.github.io/book/mml-book.pdf).
+- Linear Algebra Review and Reference by Zico Kolter. Available as PDF [here](http://www.cs.cmu.edu/~zkolter/course/15-884/linalg-review.pdf).
 
-### Local development environment
+## Resources 
 
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+We will be reading several seminal works in machine learning as well as very recent works that have not yet been peer-reviewed. Therefore, learning how to effectively read and review papers will be a focus of the class. [Learning Theory Alliance](www.let-all.com) has some very helpful resources on tips for effectively reading papers ([read1](https://let-all.com/assets/slides/How-to-ALT22-Aaditya.pdf) and [read2](https://let-all.com/assets/slides/How-to-ALT22-Sam.pdf)) and reviewing ([review1](https://let-all.com/assets/slides/How-to-ALT22-Csaba.pdf)) that I encourage you to check out.
