@@ -17,7 +17,7 @@ title: 'CIS 7000 - Foundations of Modern Machine Learning: Theory and Empirics'
 tagline: Course website for CIS 7000 at UPenn
 description: Course website for CIS 7000 at UPenn
 author: Surbhi Goel
-baseurl: '/FoMML23' # the subpath of your site, e.g. /blog
+baseurl: '/' # the subpath of your site, e.g. /blog
 url: 'https://surbhi18.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
