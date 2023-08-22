@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 'CIS 7000: Foundations of Modern ML'
+title: CIS 7000 Foundations of Modern ML
 tagline: Course website for CIS 7000 at UPenn
 description: Course website for CIS 7000 at UPenn
 author: Surbhi Goel
