@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Staff
-description: A listing of all the course staff members.
+title: Contact
+description: Contact information of all course staff.
 ---
 
-# Staff
+# Contact
 
 ## Instructors
 
