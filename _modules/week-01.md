@@ -1,23 +1,15 @@
 ---
-title: Introduction to Java
+title: Introduction and Background
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+August 29
+: **Lecture**{: .label .label-purple } Introduction, Course Overview, & How-to Read/Review/Present
+  : [Slides](#)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+August 31
+: **Lecture**{: .label .label-purple } Crash Course on Classical ML - Part 1
+  : [Slides](#)
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+September 5
+: **Lecture**{: .label .label-purple } Crash Course on Classical ML - Part 2
+  : [Slides](#)
