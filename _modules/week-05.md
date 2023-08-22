@@ -9,7 +9,7 @@ Oct 19
 : **Dicussion**{: .label .label-blue } LLMs/Transformers - Part 2
 
 Oct 24
-: : **Dicussion**{: .label .label-blue } **Lecture**{: .label .label-purple } LLMs/Transformers - Part 3
+: **Dicussion**{: .label .label-blue } **Lecture**{: .label .label-purple } LLMs/Transformers - Part 3
 
 Oct 26
 : **Lecture**{: .label .label-purple } Diffusion Models - Part 1
