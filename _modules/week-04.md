@@ -9,4 +9,7 @@ Oct 5
 : **Dicussion**{: .label .label-blue } Unsupervised Learning - Part 2
 
 Oct 10
-: : **Dicussion**{: .label .label-blue } **Lecture**{: .label .label-purple } Unsupervised Learning - Part 3
+: **Dicussion**{: .label .label-blue } **Lecture**{: .label .label-purple } Unsupervised Learning - Part 3
+
+Oct 12
+: **No Class**{: .label .label-red } Fall Break
