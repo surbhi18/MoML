@@ -29,10 +29,12 @@ This course will feature a combination of lectures, and student presentations, w
 - Archaeologist: You’re an archeologist who must determine where this paper sits in the context of previous work. You must find and report on atleast one _older_ paper cited within the current paper that substantially influenced the current paper and atleast one _newer_ paper that cites this current paper. Look out for follow-up work that offers criticism of the current paper.
 - Student Researcher: You are looking for a new research problem and the paper piqued your interest. You have to come up with follow-up project ideas based on the paper. These can be direct improvements of the paper, or projects that use the papers results as building blocks.
 - Reproducibility Checker: You want to check whether the claims of the paper are valid. You decide to create a small experiment (toy dataset, or toy model) and verify if the results hold. Make sure to check how robust they are to various choice of hyperparameters.
-- Quanta Correspondent: You want to write an article on the paper for Qanta. You must explain to a broad audience the main problem the paper is addressing, why it is impotant, and what the main technical contribution is.
+- Quanta Correspondent: You want to write an article on the paper for Qanta. You must explain to a broad audience the main problem the paper is addressing, why it is impotant, and what the main technical contributions are.
 
 ## Prerequisites
-There are no official prerequisites but a good grasp of probability, linear algebra, machine learning is expected. The following books are useful for background reading.
+There are no official prerequisites however students are expected to have mathematical maturity and proficiency in probability, linear algebra, statistics, and fundamental machine learning concepts. Familiarity with the topics covered in CIS 5200 is recommended, but not required. While the course will primarily focus on concepts and theory, some small-scale empirical explorations will be expected, requiring a basic understanding of Python or the ability to learn it through self-study. 
+
+The following books are useful for background reading.
 
 - Machine Learning (ML) by Tom Mitchell. Available as PDF [here](http://www.cs.cmu.edu/~tom/mlbook.html). A classic introduction to machine learning that assumes no knowledge of statistics or artificial intelligence. 
 - Elements of Statistical Learning (ESL) by Trevor Hastie, Robert Tibshirani and Jerome Friedman. Available as PDF [here](https://hastie.su.domains/Papers/ESLII.pdf).
@@ -43,4 +45,4 @@ There are no official prerequisites but a good grasp of probability, linear alge
 
 ## Resources 
 
-We will be reading several seminal works in machine learning as well as very recent works that have not yet been peer-reviewed. Therefore, learning how to effectively read and review papers will be a focus of the class. [Learning Theory Alliance](www.let-all.com) has some very helpful resources on tips for effectively reading papers ([read1](https://let-all.com/assets/slides/How-to-ALT22-Aaditya.pdf) and [read2](https://let-all.com/assets/slides/How-to-ALT22-Sam.pdf)) and reviewing ([review1](https://let-all.com/assets/slides/How-to-ALT22-Csaba.pdf)) that I encourage you to check out.
+We will be reading several seminal works in machine learning as well as very recent works that have not yet been peer-reviewed. Therefore, learning how to effectively read, review, and present research papers will be a primary focus of the class. [Learning Theory Alliance](www.let-all.com) has some very helpful resources on tips for effectively reading papers ([read1](https://let-all.com/assets/slides/How-to-ALT22-Aaditya.pdf) and [read2](https://let-all.com/assets/slides/How-to-ALT22-Sam.pdf)) and reviewing ([review1](https://let-all.com/assets/slides/How-to-ALT22-Csaba.pdf)) that I encourage you to check out. The first lecture will cover some of this material.
