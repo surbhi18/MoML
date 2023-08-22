@@ -21,7 +21,7 @@ seo:
 
 Please use Ed Discussion for all course communications. You can post privately on Ed to contact me, when needed.
 
-**Waitlist information**: This course is capped at 25, and will require active participation from the students including role-playing style discussions, and paper presentations. If you are on the waitlist and you think the course is a good fit for you, please email me.
+**Waitlist information**: This course require active participation from the students including role-playing style discussions, and paper presentations, and will thus be relatively small in size. If you are on the waitlist and you think the course is an ecceptionally goof fit for you, please email me.
 
 ## Course Overview
 
