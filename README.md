@@ -27,7 +27,7 @@ Please use Ed Discussion for all course communications. You can post privately o
 
 This advanced graduate-level course will focus on the latest theoretical and empirical developments in modern machine learning, with a primary focus on deep learning. We will explore cutting-edge machine learning methods such as transformers, diffusion models, self-supervised learning, and more, with an emphasis on the conceptual basis behind their design, success, and limitations. In addition to evaluating in-distribution performance, we will also assess out-of-distribution performance, robustness, emergent behavior, and optimization challenges and mysteries of these models. We will cover classical theoretical results in statistical machine learning and optimization, and explore their connections (or lack thereof) to recent empirical and theoretical research findings.
 
-The [course schedule](calendar.md) contains the tentative schedule including topics we will cover in the lectures and relevant reading material. 
+_The most closely related courses are by [Boaz Barak](https://www.boazbarak.org/) at [Harvard](https://boazbk.github.io/mltheoryseminar/cs229br#plan) and by [Aditi Raghunathan](https://www.cs.cmu.edu/~aditirag/) at [CMU](https://www.cs.cmu.edu/~aditirag/teaching/15-884F22.html)._
 
 ## Class Format
 
@@ -77,7 +77,8 @@ Here is the tentative timeline for the course project:
 
 ## Resources 
 
-We will be reading several seminal works in machine learning as well as very recent works that have not yet been peer-reviewed. Therefore, learning how to effectively read, review, and present research papers will be a primary focus of the class. [Learning Theory Alliance](www.let-all.com) has some very helpful resources on tips for effectively reading papers ([read1](https://let-all.com/assets/slides/How-to-ALT22-Aaditya.pdf) and [read2](https://let-all.com/assets/slides/How-to-ALT22-Sam.pdf)) and reviewing ([review1](https://let-all.com/assets/slides/How-to-ALT22-Csaba.pdf)) that I encourage you to check out. The first lecture will cover some of this material.
+We will be reading several seminal works in machine learning as well as very recent works that have not yet been peer-reviewed. Therefore, learning how to effectively read, review, and present research papers will be an important skill for the class. [Learning Theory Alliance](www.let-all.com) has some very helpful resources on tips for effectively reading papers ([read1](https://let-all.com/assets/slides/How-to-ALT22-Aaditya.pdf) and [read2](https://let-all.com/assets/slides/How-to-ALT22-Sam.pdf)) and reviewing ([review1](https://let-all.com/assets/slides/How-to-ALT22-Csaba.pdf)) that I encourage you to check out. The first lecture will cover some of this material.
+
 
 ## Wellness Statement
 
