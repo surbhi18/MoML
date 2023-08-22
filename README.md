@@ -17,9 +17,9 @@ seo:
 {{ staffer }}
 {% endfor %}
 
-**Instructor office hours**: Tuesday at 10:30-11:30AM (Zoom / Levine 505)
+**Instructor office hours**: By appointment (send a private message on Ed)
 
-We will be using Ed Discussion for all course communications. You can post privately on Ed to contact me, when needed.
+Please use Ed Discussion for all course communications. You can post privately on Ed to contact me, when needed.
 
 **Waitlist information**: This course is capped at 25, and will require active participation from the students including role-playing style discussions, and paper presentations. If you are on the waitlist and you think the course is a good fit for you, please email me.
 
@@ -28,10 +28,6 @@ We will be using Ed Discussion for all course communications. You can post priva
 This advanced graduate-level course will focus on the latest theoretical and empirical developments in modern machine learning, with a primary focus on deep learning. We will explore cutting-edge machine learning methods such as transformers, diffusion models, self-supervised learning, and more, with an emphasis on the conceptual basis behind their design, success, and limitations. In addition to evaluating in-distribution performance, we will also assess out-of-distribution performance, robustness, emergent behavior, and optimization challenges and mysteries of these models. We will cover classical theoretical results in statistical machine learning and optimization, and explore their connections (or lack thereof) to recent empirical and theoretical research findings.
 
 The [course schedule](calendar.md) contains the tentative schedule including topics we will cover in the lectures and relevant reading material. 
-
-## Grading
-
-Your grade will be based on three components: **Paper Presentation + Review 30%; Class Participation 25%; Final Project 45% (10% proposal + 10% progress report + 15% final report + 10% presentation)**. There will be no homeworks or exams.
 
 ## Class Format
 
@@ -57,17 +53,38 @@ The following books are useful for background reading.
 - Mathematics for Machine Learning (MML) by Marc Deisenroth, A. Aldo Faisal, and Cheng Soon Ong. Available as PDF [here](https://mml-book.github.io/book/mml-book.pdf).
 - Linear Algebra Review and Reference by Zico Kolter. Available as PDF [here](http://www.cs.cmu.edu/~zkolter/course/15-884/linalg-review.pdf).
 
+## Grading
+
+Your grade will be based on three components: **Paper Presentation + Review 30%; Class Participation 25%; Final Project 45% (10% proposal + 10% progress report + 15% final report + 10% presentation)**. There will be no homeworks or exams.
+
+## Course Project
+
+The project can either be a literature survey or include original research:
+
+- **Literature survey**: You can pick any topic covered in the class or in the broader area of modern machine learning for your literature survey. Your survey must include in-depth summaries and exposition of relevant papers on the chosen topic, comparing and contrasting them. To keep the scope fixed, make sure to get the list of papers to include in the survey approved by the instructor.
+
+- **Original research**: It can be either theoretical or empirical (or a mix of the two). Make sure to get it approved by the instructor. If you choose this option, you can do it either individually or in groups of 2. You are encouraged to use your current research in the project. The best outcome of this type of project is a manuscript that is publishable at a major machine learning conference (COLT, ICML, NeurIPS, ICLR etc.) or journal (TMLR, JMLR).
+
+Here is the tentative timeline for the course project:
+
+- Project proposal (due on Oct 10 2022): A short document with at most 2 pages of content (plus references) (1) _survey_: stating the list of papers you plan to survey, and the reasons behind your choice (why you think it is important or interesting), (2) _original research_: describing the proposed problem, why it is interesting, and a brief list of references to prior work. Please be mindful of not being overly ambitious, and scoping the projects appropriately.
+
+- Midway progress report (due on Nov 15 2023): A document with roughly 3-4 pages of content (plus references) highlighting the progress you have made so far, and your plan for the remaining of the semester. Compared to the proposal, this should be more concrete and detailed, with preliminary results that you may have.
+
+- Final project presentations will be held in class on Dec 5 & 7 2023. Format will be decided based on the number of groups.
+
+- Final project reports (due on Dec 15 2023): This should be in the style of a NeurIPS paper. You are allowed up to 8 pages (you do not need to use all 8) of content with unlimited appendices. 
+
 ## Resources 
 
 We will be reading several seminal works in machine learning as well as very recent works that have not yet been peer-reviewed. Therefore, learning how to effectively read, review, and present research papers will be a primary focus of the class. [Learning Theory Alliance](www.let-all.com) has some very helpful resources on tips for effectively reading papers ([read1](https://let-all.com/assets/slides/How-to-ALT22-Aaditya.pdf) and [read2](https://let-all.com/assets/slides/How-to-ALT22-Sam.pdf)) and reviewing ([review1](https://let-all.com/assets/slides/How-to-ALT22-Csaba.pdf)) that I encourage you to check out. The first lecture will cover some of this material.
 
 ## Wellness Statement
 
-Your mental health and wellbeing are incredibly important to us and we recognize the stresses (both school and non-school related) that many of you may be under here at Penn. We encourage you to come speak to the us as well as the TAs if you have any extenuating circumstances as you progress through this course.
+Your mental health and wellbeing are incredibly important to me and I recognize the stresses (both school and non-school related) that many of you may be under here at Penn. I encourage you to come speak to me if you have any extenuating circumstances as you progress through this course.
 
-We want to make sure that you are aware of some of the mental health resources here at Penn.
-- [Student health and counseling](https://wellness.upenn.edu/student-health-and-counseling): the primary care and psychological care division of Wellness at
-Penn which can be used to schedule counseling appointments.
+I want to make sure that you are aware of some of the mental health resources here at Penn.
+- [Student health and counseling](https://wellness.upenn.edu/student-health-and-counseling): the primary care and psychological care division of Wellness at Penn which can be used to schedule counseling appointments.
 - [Mental health at Penn](https://wellness.upenn.edu/): Penn’s mental health hub.
 - If there is any urgent concern, please contact CAPS at 215-898-7021 for emergency help.
 
@@ -78,4 +95,8 @@ If you are a victim of, witness, or are otherwise affected by unacceptable behav
 
 ## DEI Statement
 
-At Penn and in this class we value and actively seek to include all students and their unique identities (including but not limited to ethnicity, gender, sexual orientation, country of origin, class, religion, and disability status). You belong here, and we are here to help you. If at any time, you feel that this class is not providing an inclusive environment to your or your classmates, please let us know. We want this class, lectures, discussions, and office hours to be an inclusive space where you feel comfortable learning. 
+At Penn and in this class we value and actively seek to include all students and their unique identities (including but not limited to ethnicity, gender, sexual orientation, country of origin, class, religion, and disability status). You belong here, and I am here to help you. If at any time, you feel that this class is not providing an inclusive environment to your or your classmates, please let us know. I want this class, lectures, discussions, and office hours to be an inclusive space where you feel comfortable learning and sharing your opinion.
+
+## Changes
+
+The instructor reserves the right to make changes to the syllabus including lecture contents and project due dates. These changes will be announced as early as possible.
