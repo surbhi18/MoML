@@ -8,14 +8,18 @@ seo:
   name: Foundations of Modern Machine Learning - Theory and Empirics
 ---
 
-- **Lecture time**: Tuesdays and Thursdays 1:45-3:15 PM
-- **Lecture location**: Zoom (for September), DRLB 3C8
-- **Instructors**: {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+**Lecture time**: Tuesdays and Thursdays 1:45-3:15 PM
+
+**Lecture location**: Zoom (for September), DRLB 3C8
+
+**Instructor**: {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
-- **Instructor office hours**: Tuesday at 10:30-11:30AM (Zoom / Levine 505)
-- **Questions**: We will be using Ed Discussion for all course communications. You can post privately on Ed to contact me, when needed.
+
+**Instructor office hours**: Tuesday at 10:30-11:30AM (Zoom / Levine 505)
+
+We will be using Ed Discussion for all course communications. You can post privately on Ed to contact me, when needed.
 
 **Waitlist information**: This course is capped at 25, and will require active participation from the students including role-playing style discussions, and paper presentations. If you are on the waitlist and you think the course is a good fit for you, please email me.
 
