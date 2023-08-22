@@ -61,9 +61,9 @@ Your grade will be based on three components: **Paper Presentation + Review 30%;
 
 The project can either be a literature survey or include original research:
 
-- **Literature survey**: You can pick any topic covered in the class or in the broader area of modern machine learning for your literature survey. Your survey must include in-depth summaries and exposition of relevant papers on the chosen topic, comparing and contrasting them. To keep the scope fixed, make sure to get the list of papers to include in the survey approved by the instructor.
+- **Literature survey**: You can pick any topic covered in the class or in the broader area of modern machine learning for your literature survey. Your survey must include in-depth summaries and exposition of relevant papers on the chosen topic, comparing and contrasting them.
 
-- **Original research**: It can be either theoretical or empirical (or a mix of the two). Make sure to get it approved by the instructor. If you choose this option, you can do it either individually or in groups of 2. You are encouraged to use your current research in the project. The best outcome of this type of project is a manuscript that is publishable at a major machine learning conference (COLT, ICML, NeurIPS, ICLR etc.) or journal (TMLR, JMLR).
+- **Original research**: It can be either theoretical or empirical (or a mix of the two). Make sure to get it approved by me. If you choose this option, you can do it either individually or in groups of 2. You are encouraged to use your current research in the project. The best outcome of this type of project is a manuscript that is publishable at a major machine learning conference (COLT, ICML, NeurIPS, ICLR etc.) or journal (TMLR, JMLR).
 
 Here is the tentative timeline for the course project:
 
@@ -96,8 +96,8 @@ If you are a victim of, witness, or are otherwise affected by unacceptable behav
 
 ## DEI Statement
 
-At Penn and in this class we value and actively seek to include all students and their unique identities (including but not limited to ethnicity, gender, sexual orientation, country of origin, class, religion, and disability status). You belong here, and I am here to help you. If at any time, you feel that this class is not providing an inclusive environment to your or your classmates, please let us know. I want this class, lectures, discussions, and office hours to be an inclusive space where you feel comfortable learning and sharing your opinion.
+At Penn and in this class we value and actively seek to include all students and their unique identities (including but not limited to ethnicity, gender, sexual orientation, country of origin, class, religion, and disability status). You belong here, and I am here to help you. If at any time, you feel that this class is not providing an inclusive environment to your or your classmates, please let me know. I want this class, lectures, discussions, and office hours to be an inclusive space where you feel comfortable learning and sharing your opinion.
 
 ## Changes
 
-The instructor reserves the right to make changes to the syllabus including lecture contents and project due dates. These changes will be announced as early as possible.
+I reserve the right to make changes to the syllabus including lecture contents and project due dates. These changes will be announced as early as possible.
