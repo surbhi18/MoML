@@ -10,7 +10,10 @@ seo:
 
 - **Lecture time**: Tuesdays and Thursdays 1:45-3:15 PM
 - **Lecture location**: Zoom (for September), DRLB 3C8
-- **Instructors**: [Surbhi Goel](https://www.surbhigoel.com) (surbhig)
+- **Instructors**: {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+{% for staffer in instructors %}
+{{ staffer }}
+{% endfor %}
 - **Instructor office hours**: Tuesday at 10:30-11:30AM (Zoom / Levine 505)
 - **Questions**: We will be using Ed Discussion for all course communications. You can post privately on Ed to contact me, when needed.
 
