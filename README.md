@@ -7,10 +7,11 @@ seo:
   type: CIS 7000
   name: Foundations of Modern Machine Learning - Theory and Empirics
 ---
+**Announcement: The lectures will start on Thursday, August 31, 2023. They will be held virtually for the month of September.** 
 
 **Lecture time**: Tuesdays and Thursdays 1:45-3:15 PM
 
-**Lecture location**: Zoom (for September), DRLB 3C8
+**Lecture location**: **Virtual** (on Zoom for September), DRLB 3C8
 
 **Instructor**: {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
@@ -21,7 +22,7 @@ seo:
 
 Please use Ed Discussion for all course communications. You can post privately on Ed to contact me, when needed.
 
-**Waitlist information**: This course require active participation from the students including role-playing style discussions, and paper presentations, and will thus be relatively small in size. If you are on the waitlist and you think the course is an ecceptionally goof fit for you, please email me.
+**Waitlist information**: This course require active participation from the students including role-playing style discussions, and paper presentations, and will thus be relatively small in size. If you are on the waitlist and you think the course is an ecceptionally good fit for you, **please email me**.
 
 ## Course Overview
 
