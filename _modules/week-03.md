@@ -10,7 +10,7 @@ Sep 21
 
 Sep 26
 : **Guest Lecture**{: .label .label-green } Beyond NTK (**on Zoom**)
- - [Eran Malach](https://www.eranmalach.com/)
+: - [Eran Malach](https://www.eranmalach.com/)
  - (_optional_) [Learning Parities with Neural Networks](https://arxiv.org/pdf/2002.07400.pdf)
 : **Discussion**{: .label .label-blue } Beyond NTK (**on Zoom**)
 
