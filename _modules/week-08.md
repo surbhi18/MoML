@@ -3,13 +3,13 @@ title: Guest Lectures and Paper Presentations
 ---
 
 Nov 28
-: **Lecture**{: .label .label-purple } Guest Lecture - Part 1 
+: **Guest Lecture**{: .label .label-green }
 
 Nov 30
-: **Lecture**{: .label .label-purple } Guest Lecture - Part 2
+: **Guest Lecture**{: .label .label-green }
 
 Dec 5
-: **Lecture**{: .label .label-purple } Project Presentation - Part 1
+: **Project Presentation**{: .label .label-blue }
 
 Dec 7
-: **Lecture**{: .label .label-purple } Project Presentation - Part 2
+: **Project Presentation**{: .label .label-blue }
