@@ -74,7 +74,7 @@ Here is the tentative timeline for the course project:
 
 ## Grading
 
-Your grade will be based on three components: **Paper Presentation + Review 30%; Class Participation 25%; Final Project 45%**. There will be no homeworks or exams.
+Your grade will be based on three components: **Discussions/Class Participation 25%; Final Project 45%**. There will be no homeworks or exams.
 
 - **Discussions (55%)**
   - There will be 20 paper readings in total scattered in between lectures
@@ -84,11 +84,11 @@ Your grade will be based on three components: **Paper Presentation + Review 30%;
     - Presenting your critique (5%)
     - Submitting your written review (5%)
     - May require a bit of 'deep dig' but not expected to read appendices unless you want to
-  - The other roles only require you presenting for 2 mins and you will need to do this for two papers for 5% of the grade
+  - The other roles only require you presenting for 3 mins and you will need to do this for three papers for 15% of the grade
     - At the level of 'start to dig'
-  - If you are not presenting, then your participation in the discussion and questions count for the rest of the 20% participation grade (will adjust to count for about 10 out of 14 remaining papers)
+  - If you are not presenting, then your participation in the discussion and questions count for the rest of the 10% participation grade (will adjust to count for participation in at least 10 out of 15 remaining papers)
     - Only 'surface level' reading required
-  - (_extra credit_) The reproducibility role be for one paper for 10% of the grade
+  - (_extra credit_) The reproducibility role be for one paper for 10% bonus grade
 
 - **Project (45%)**
   - 10% for 1 page proposal
