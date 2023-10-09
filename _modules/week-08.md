@@ -3,7 +3,8 @@ title: Guest Lectures and Paper Presentations
 ---
 
 Nov 28
-: **Guest Lecture**{: .label .label-green }
+: **Guest Lecture**{: .label .label-green } Reinforcement Learning
+: - [Akshay Krishnamurthy](https://people.cs.umass.edu/~akshay/), Principal Research Manager, Microsoft Research, New York City
 
 Nov 30
 : **Guest Lecture**{: .label .label-green }
