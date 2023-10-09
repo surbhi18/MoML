@@ -91,9 +91,9 @@ Your grade will be based on three components: **Discussions/Class Participation 
   - (_extra credit_) The reproducibility role be for one paper for 10% bonus grade
 
 - **Project (45%)**
-  - 10% for 1 page proposal
-  - 10% for 2-3 page progress report 
-  - 15% for 4 page final report (with unlimited appendix) 
+  - 10% for 1-2 page proposal
+  - 10% for 3-4 page progress report 
+  - 15% for 4-6 page final report (with unlimited appendix) 
   - 10% for <=10 minute presentation 
 
 ## Resources 
