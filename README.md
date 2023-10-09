@@ -70,7 +70,7 @@ Here is the tentative timeline for the course project:
 
 - Final project presentations will be held in class on Dec 5 & 7 2023. Format will be decided based on the number of groups.
 
-- Final project reports (due on Dec 15 2023): This should be in the style of a NeurIPS paper. You are allowed up to 8 pages (you do not need to use all 8) of content with unlimited appendices. 
+- Final project reports (due on Dec 15 2023): This should be in the style of a NeurIPS paper. You are allowed up to 6 pages (you do not need to use all 6) of content with unlimited appendices. 
 
 ## Grading
 
