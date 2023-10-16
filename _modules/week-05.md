@@ -14,7 +14,7 @@ Oct 19
 
 Oct 24
 : **Dicussion**{: .label .label-blue } LLMs/Transformers - In-context Learning
-: - Paper A: [What Can Transformers Learn In-Context? A Case Study of Simple Function Classes](https://arxiv.org/pdf/2111.02080.pdf)
+: - Paper A: [What Can Transformers Learn In-Context? A Case Study of Simple Function Classes](https://arxiv.org/abs/2208.01066)
 : - Paper B: [An Explanation of In-context Learning as Implicit Bayesian Inference](https://arxiv.org/pdf/2111.02080.pdf)
   - (_optional_) [Transformers learn in-context by gradient descent](https://arxiv.org/abs/2212.07677)
 
