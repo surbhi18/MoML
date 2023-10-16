@@ -20,7 +20,7 @@ Sep 28
 : **No Class**{: .label .label-red } ICLR Deadline
 
 Oct 3
-: **Discussion**{: .label .label-blue } Optimization Surprises/Mysteries (**on Zoom**)
+: **Discussion**{: .label .label-blue } Optimization Surprises/Mysteries
 : - Paper A: [Hidden Progress in Deep Learning: SGD Learns Parities Near the Computational Limit](https://arxiv.org/abs/2207.08799)
   - (_optional_) [SGD learning on neural networks: leap complexity and saddle-to-saddle dynamics](https://arxiv.org/pdf/2302.11055.pdf)
 : - Paper B: [Gradient Descent on Neural Networks Typically Occurs at the Edge of Stability](https://arxiv.org/abs/2103.00065)
