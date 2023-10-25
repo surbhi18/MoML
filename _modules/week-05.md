@@ -19,7 +19,10 @@ Oct 24
   - (_optional_) [Transformers learn in-context by gradient descent](https://arxiv.org/abs/2212.07677)
 
 Oct 26
-: **Lecture**{: .label .label-purple } Diffusion Models - History, Basics
+: **Lecture**{: .label .label-purple } Score-based and Diffusion Models - Overview and Technical Derivation
 
 Oct 31
-: **Dicussion**{: .label .label-blue } Diffusion Models - Part 2
+: **Dicussion**{: .label .label-blue } Score-based and Diffusion Models - Improvements
+: - Paper A: [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456)
+  - (_recommended_) [Blog](https://yang-song.net/blog/2021/score/)
+: - Paper B: [Consistency Models](https://arxiv.org/abs/2303.01469)
