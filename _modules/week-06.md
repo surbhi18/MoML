@@ -12,4 +12,5 @@ Nov 7
 
 Nov 9
 : **Dicussion**{: .label .label-blue } Robustness - Out-of-distribution
-: **Lecture**{: .label .label-purple } Robustness - Other topics 
+: **Lecture**{: .label .label-purple } Robustness - Out-of-distribution
+: - Paper A: [Understanding the Failure Modes of Out-of-Distribution Generalization](https://arxiv.org/abs/2010.15775)
