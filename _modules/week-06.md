@@ -11,6 +11,6 @@ Nov 7
 : - Paper B: [Certified Adversarial Robustness via Randomized Smoothing](https://arxiv.org/pdf/1902.02918.pdf)
 
 Nov 9
-: **Dicussion**{: .label .label-blue } Robustness - Out-of-distribution
 : **Lecture**{: .label .label-purple } Robustness - Out-of-distribution
+: **Dicussion**{: .label .label-blue } Robustness - Out-of-distribution
 : - Paper A: [Understanding the Failure Modes of Out-of-Distribution Generalization](https://arxiv.org/abs/2010.15775)
