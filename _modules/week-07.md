@@ -14,7 +14,7 @@ Nov 16
 : - Paper B: [On the dangers of stochastic parrots: can language models be too big?](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)
 
 Nov 21
-: **Lecture**{: .label .label-purple } Summary of Course
+: **Lecture**{: .label .label-purple } Miscellaneous Topics
 
 Nov 23
 : **No Class**{: .label .label-red } Thanksgiving Break
