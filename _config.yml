@@ -17,8 +17,8 @@ title: CIS 3333 Mathematics of Machine Learning (MoML)
 tagline: Course website for CIS 3333 (Fall 2025)
 description: Course website for CIS 3333 (Mathematics of Machine Learning) for Fall 2025
 author: Surbhi Goel
-baseurl: '/moml' # the subpath of your site, e.g. /blog
-url: 'https://riceric22.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/MoML' # the subpath of your site, e.g. /blog
+url: 'https://surbhi18.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
