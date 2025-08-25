@@ -18,7 +18,14 @@ seo:
 {{ staffer }}
 {% endfor %}
 
-**Instructor office hours**: By appointment (send a private message on Ed)
+**Instructor office hours**: TBA
+
+**TA(s)**: {% assign tas = site.staffers | where: 'role', 'TA' %}
+{% for staffer in tas %}
+{{ staffer }}
+{% endfor %}
+
+**TA office hours**: TBA
 
 Please use Ed Discussion for all course communications. You can post privately on Ed to contact me, when needed.
 
@@ -72,7 +79,10 @@ The following books are useful for background reading.
 
 ## Grading
 
-There will be approximately 10 short homeworks (estimated weekly) totaling 40% of your grade which will be submitted handwritten. There will also be 3 midterms at 18% each, one per focus area. For the midterms, you will be allowed to resubmit corrected solutions (within a week of receiving the grades) with a clear explanation of the mistake for up to 75% of the points. The remaining 6% will be for in-class participation (2% for each of the three focus areas).
+There will be approximately 10 short homeworks (estimated weekly) totaling 40% of your grade which will be submitted handwritten. Homeworks will be due a week after they are assigned. There will also be 3 midterms at 18% each, one per focus area. For the midterms, you will be allowed to resubmit corrected solutions (within a week of receiving the grades) with a clear explanation of the mistake for up to 75% of the points. The remaining 6% will be for in-class participation (2% for each of the three focus areas).
+
+Each student will have 120 cumulative hours (5 days) of late time (as measured on Gradescope), which will be forgiven. After this cumulative amount of time has passed, any assignment that is turned in late will receive zero credit. If you have extenuating circumstances, please reach out to me on Ed.
+
 
 ## Textbook
 

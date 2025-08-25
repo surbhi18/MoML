@@ -55,3 +55,9 @@ summary {
     }
   }
 }
+
+// Fix: heading anchor link rendering off-screen (shows stray "a" at top-left)
+.anchor-heading {
+  left: auto;
+  right: -$sp-5;
+}
