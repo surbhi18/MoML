@@ -1,21 +1,27 @@
 ---
-title: Generalization Mysteries
+title: Linear & Functional Analysis
 ---
 
-Sep 12
-: **Discussion**{: .label .label-blue } (**on Zoom**)
-: - Paper A: [Understanding Deep Learning Requires Rethinking Generalization](https://arxiv.org/abs/1611.03530)
-  - (_optional_) [Understanding Deep Learning (Still) Requires Rethinking Generalization](https://cacm.acm.org/magazines/2021/3/250713-understanding-deep-learning-still-requires-rethinking-generalization/fulltext)
-: - Paper B: [Fantastic Generalization Measures and Where to Find Them](https://arxiv.org/abs/1912.02178)
+Oct 1
+: **Lecture**{: .label .label-purple } Review: Linear Algebra (2.2, 2.4)
 
-Sep 14
-: **Lecture**{: .label .label-purple } (**on Zoom**)
-: - Implicit bias of SGD / Algorithmic regularization
-: **Discussion**{: .label .label-blue } (**on Zoom**)
- - Paper A: [Reconciling modern machine-learning practice and the classical bias-variance tradeoff](https://arxiv.org/pdf/1812.11118.pdf)
- - (_optional_) [Deep Double Descent: Where Bigger Models and More Data Hurt](https://arxiv.org/abs/1912.02292)
+Oct 6
+: **Lecture**{: .label .label-purple } Review: Linear Algebra (2.5, 2.6)
 
-Sep 19
-: **Lecture**{: .label .label-purple } (**on Zoom**)
-: - Benign Overfitting
-  - Unresolved Mysteries
+Oct 8
+: **Lecture**{: .label .label-purple } Fundamentals: Change of Basis (2.7)
+
+Oct 13
+: **Lecture**{: .label .label-purple } Fundamentals: Inner product spaces and Orthogonality (3.1–3.8)
+
+Oct 15
+: **Lecture**{: .label .label-purple } Fundamentals: Decompositions (4.1, 4.2, 4.4)
+
+Oct 20
+: **Lecture**{: .label .label-purple } Example: Functional analysis, Hilbert spaces, Kernels (12.4)
+
+Oct 22
+: **Lecture**{: .label .label-purple } Example: Representer theorems
+
+Oct 27
+: **Exam**{: .label .label-green } Midterm 2

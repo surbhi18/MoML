@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CIS 7000 Foundations of Modern ML
-tagline: Course website for CIS 7000 at UPenn
-description: Course website for CIS 7000 at UPenn
+title: CIS 3333 Mathematics of Machine Learning (MoML)
+tagline: Course website for CIS 3333 (Fall 2025)
+description: Course website for CIS 3333 (Mathematics of Machine Learning) for Fall 2025
 author: Surbhi Goel
-baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'https://surbhi18.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/moml' # the subpath of your site, e.g. /blog
+url: 'https://riceric22.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
@@ -38,7 +38,6 @@ footer_content:
 collections:
   staffers:
   modules:
-  schedules:
   announcements:
 # Default layouts for each collection type
 defaults:
@@ -55,11 +54,6 @@ defaults:
       type: modules
     values:
       layout: module
-  - scope:
-      path: ''
-      type: schedules
-    values:
-      layout: schedule
   - scope:
       path: ''
       type: announcements
