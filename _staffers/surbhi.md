@@ -6,4 +6,4 @@ website: https://www.surbhigoel.com/
 photo: surbhi.jpg
 ---
 
-CIS Assistant Professor
+Assistant Professor, CIS

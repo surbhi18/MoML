@@ -6,4 +6,4 @@ website: https://www.ezraedelman.com/
 photo: ezra.jpg
 ---
 
-CIS PhD Student
+PhD Student, CIS

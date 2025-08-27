@@ -30,10 +30,12 @@ Nov 26
 : **No Class**{: .label .label-red } Thanksgiving Break
 
 Dec 1
-: **No Class**{: .label .label-red } Reading Days
+: **No Class**{: .label .label-red }
 
 Dec 3
 : **Exam**{: .label .label-green } Midterm 3
 
+Dec 8
+: **No Class**{: .label .label-red }
 
 
