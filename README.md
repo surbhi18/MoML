@@ -20,7 +20,7 @@ seo:
 
 **Instructor office hours**: TBA
 
-**TA(s)**: {% assign tas = site.staffers | where: 'role', 'TA' %}
+**TAs**: {% assign tas = site.staffers | where: 'role', 'TA' %}
 {% for staffer in tas %}
 {{ staffer }}
 {% endfor %}

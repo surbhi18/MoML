@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CIS 3333 Mathematics of Machine Learning (MoML)
+title: Math of ML
 tagline: Course website for CIS 3333 (Fall 2025)
 description: Course website for CIS 3333 (Mathematics of Machine Learning) for Fall 2025
 author: Surbhi Goel
