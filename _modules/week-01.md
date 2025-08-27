@@ -3,7 +3,7 @@ title: Probability & Statistics
 ---
 
 Aug 27
-: **Lecture**{: .label .label-purple } Overview [notes](../notes/lec1.pdf)
+: **Lecture**{: .label .label-purple } Overview - [notes](../notes/lec1.pdf)
 
 Sep 1
 : **No Class**{: .label .label-red } Labor Day
