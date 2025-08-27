@@ -123,4 +123,4 @@ At Penn and in this class we value and actively seek to include all students and
 
 ## Changes
 
-I reserve the right to make changes to the syllabus including lecture contents and project due dates. These changes will be announced as early as possible.
+I reserve the right to make changes to the syllabus including lecture contents and homework due dates. These changes will be announced as early as possible.
