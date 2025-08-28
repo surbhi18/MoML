@@ -25,7 +25,7 @@ seo:
 {{ staffer }}
 {% endfor %}
 
-**TA office hours**: Tuesdays 5:00-6:00 PM (Maya, location TBA), Wednesdays 2:00-3:00 PM (Ezra, location TBA), Thursdays 2:00-3:00 PM (Guru, location TBA)
+**TA office hours**: Tuesdays 5:00-6:00 PM (Maya, location TBA), Wednesdays 2:00-3:00 PM (Ezra, location TBA), Thursdays 2:00-3:00 PM (Guru, AGH 6th floor outside 642)
 
 Please use Ed Discussion for all course communications. You can post privately on Ed to contact me, when needed.
 
