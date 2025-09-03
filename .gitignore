@@ -7,15 +7,4 @@ Gemfile.lock
 _site/
 node_modules/
 vendor/
-notes/*.tex
-notes/*.xdv
-notes/*.aux
-notes/*.fls
-notes/*.fdb_latexmk
-notes/*.log
-notes/*.out
-notes/*.synctex.gz
-notes/*.toc
-notes/*.bbl
-notes/*.blg
-notes/*.md
+notes/*
