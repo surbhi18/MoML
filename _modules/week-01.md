@@ -6,7 +6,7 @@ Sep 3
 : **Lecture**{: .label .label-purple } Review: Discrete + Continuous Probability
 : - [Notes for Review](../assets/posted/lec2+3.pdf)
 : - Reading: Chapters 6.1, 6.2
-: **HW Out**{: .label .label-red} [Homework 1](../posted/hw1.pdf)
+: **HW Out**{: .label .label-red} [Homework 1](../assets/posted/hw1.pdf)
 
 Sep 8
 : **Lecture**{: .label .label-purple } Review: Discrete + Continuous Probability
