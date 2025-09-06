@@ -18,14 +18,14 @@ seo:
 {{ staffer }}
 {% endfor %}
 
-**Instructor office hours**: Mondays 5:00-6:00 PM (after class) in AGH623
+**Instructor office hours**: Mondays 5:00-6:00 PM (after class) in AGH 623
 
 **TAs**: {% assign tas = site.staffers | where: 'role', 'TA' %}
 {% for staffer in tas %}
 {{ staffer }}
 {% endfor %}
 
-**TA office hours**: Tuesdays 5:00-6:00 PM (Maya, location TBA), Wednesdays 2:00-3:00 PM (Ezra, location TBA), Thursdays 2:00-3:00 PM (Guru, AGH 6th floor outside 642)
+**TA office hours**: Tuesdays 5:00-6:00 PM (Maya), Wednesdays 2:00-3:00 PM (Ezra), Thursdays 2:00-3:00 PM (Guru) in AGH outside 642
 
 Please use Ed Discussion for all course communications. You can post privately on Ed to contact me, when needed.
 
