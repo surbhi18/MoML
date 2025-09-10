@@ -6,7 +6,7 @@ Sep 3
 : **Lecture**{: .label .label-purple } Review: Discrete + Continuous Probability
 : - [Notes for Review - Updated](../assets/posted/lec2+3.pdf)
 : - Reading: Chapters 6.1, 6.2
-: **HW Out**{: .label .label-red} [Homework 1](../assets/posted/hw1.pdf)
+: **HW1 Out**{: .label .label-red} [Homework 1](../assets/posted/hw1.pdf)
 
 Sep 8
 : **Lecture**{: .label .label-purple } Review: Discrete + Continuous Probability
@@ -17,6 +17,8 @@ Sep 10
 : **Lecture**{: .label .label-purple } Fundamentals: Mean and Variance, Gaussian distribution
 : - [Notes for Fundamentals](../assets/posted/lec4+5.pdf)
 : - Reading: Chapters 6.4, 6.5
+: **HW1 Due**{: .label .label-red}
+: **HW2 Out**{: .label .label-red} [Homework 2](../assets/posted/hw2.pdf)
 
 Sep 15
 : **Lecture**{: .label .label-purple } Fundamentals: Exponential Distributions and Conjugacy
