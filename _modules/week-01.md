@@ -14,16 +14,17 @@ Sep 8
 : - Reading: Chapters 6.3, 6.4
 
 Sep 10
-: **Lecture**{: .label .label-purple } Fundamentals: Mean and Variance, Gaussian distribution
-: - [Notes for Fundamentals](../assets/posted/lec4+5.pdf)
-: - Reading: Chapters 6.4, 6.5
+: **Lecture**{: .label .label-purple } Fundamentals: Mean and Variance
+: - [Notes for Fundamentals - Updated](../assets/posted/lec4+5.pdf)
+: - Reading: Chapters 6.4
 : **HW1 Due**{: .label .label-red}
 : **HW2 Out**{: .label .label-red} [Homework 2](../assets/posted/hw2.pdf)
 
 Sep 15
-: **Lecture**{: .label .label-purple } Fundamentals: Exponential Distributions and Conjugacy
-: - [Notes for Fundamentals](../assets/posted/lec4+5.pdf)
-: - Reading: 6.6
+: **Lecture**{: .label .label-purple } Fundamentals: Gaussian Distribution, Exponential Distributions and Conjugacy
+: - [Notes for Fundamentals - Updated](../assets/posted/lec4+5.pdf)
+<!-- : - [Notebook](https://colab.research.google.com/drive/1DAmZXq6rx96ynq-BJSpKGhVC0TFtlS5q?usp=sharing) -->
+: - Reading: 6.5, 6.6
 
 Sep 17
 : **Lecture**{: .label .label-purple } Fundamentals: Concentration inequalities (Markov, Chebyshev, WLLN)
