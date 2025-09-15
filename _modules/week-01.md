@@ -6,7 +6,7 @@ Sep 3
 : **Lecture**{: .label .label-purple } Review: Discrete + Continuous Probability
 : - [Notes for Review - Updated](../assets/posted/lec2+3.pdf)
 : - Reading: Chapters 6.1, 6.2
-: - [Notebook for Spam vs Ham](https://colab.research.google.com/drive/1L0iroEeuIB-j7UYQa2k2YgIi2iRItDbK?usp=sharing)
+
 : **HW1 Out**{: .label .label-red} [Homework 1](../assets/posted/hw1.pdf)
 
 Sep 8
@@ -24,7 +24,7 @@ Sep 10
 Sep 15
 : **Lecture**{: .label .label-purple } Fundamentals: Gaussian Distribution, Exponential Distributions and Conjugacy
 : - [Notes for Fundamentals - Updated](../assets/posted/lec4+5.pdf)
-<!-- : - [Notebook](https://colab.research.google.com/drive/1DAmZXq6rx96ynq-BJSpKGhVC0TFtlS5q?usp=sharing) -->
+: - [Notebook](https://colab.research.google.com/drive/1DAmZXq6rx96ynq-BJSpKGhVC0TFtlS5q?usp=sharing)
 : - Reading: 6.5, 6.6
 
 Sep 17
