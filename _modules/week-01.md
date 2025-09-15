@@ -6,6 +6,7 @@ Sep 3
 : **Lecture**{: .label .label-purple } Review: Discrete + Continuous Probability
 : - [Notes for Review - Updated](../assets/posted/lec2+3.pdf)
 : - Reading: Chapters 6.1, 6.2
+: - [Notebook for Spam vs Ham](https://colab.research.google.com/drive/1L0iroEeuIB-j7UYQa2k2YgIi2iRItDbK?usp=sharing)
 : **HW1 Out**{: .label .label-red} [Homework 1](../assets/posted/hw1.pdf)
 
 Sep 8
