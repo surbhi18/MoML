@@ -29,9 +29,11 @@ Sep 15
 
 Sep 17
 : **Lecture**{: .label .label-purple } Fundamentals: Concentration inequalities (Markov, Chebyshev, WLLN)
+: - [Notes for Concentration - 1](../assets/posted/lec6.pdf)
 
 Sep 22
 : **Lecture**{: .label .label-purple } Fundamentals: Concentration inequalities (Sub-gaussian, Hoeffding)
+
 
 Sep 24
 : **Lecture**{: .label .label-purple } Example: Generalization bounds
