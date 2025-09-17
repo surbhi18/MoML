@@ -30,6 +30,9 @@ Sep 15
 Sep 17
 : **Lecture**{: .label .label-purple } Fundamentals: Concentration inequalities (Markov, Chebyshev, WLLN)
 : - [Notes for Concentration - 1](../assets/posted/lec6.pdf)
+: - [Notebook](https://colab.research.google.com/drive/1-hYd6rDcZDVdMrlInGoqMBgMp3ezDOQz?usp=sharing)
+: **HW2 Due**{: .label .label-red}
+: **HW3 Out**{: .label .label-red} [Homework 3](../assets/posted/hw3.pdf)
 
 Sep 22
 : **Lecture**{: .label .label-purple } Fundamentals: Concentration inequalities (Sub-gaussian, Hoeffding)
