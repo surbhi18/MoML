@@ -41,6 +41,7 @@ Sep 22
 
 Sep 24
 : **Lecture**{: .label .label-purple } Example: Generalization bounds
+: - [Notes for Generalization Bounds](../assets/posted/lec8.pdf)
 
 Sept 26
 : **HW3 Due**{: .label .label-red}
