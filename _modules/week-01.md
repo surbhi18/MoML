@@ -47,5 +47,4 @@ Sept 26
 : **HW3 Due**{: .label .label-red}
 
 Sep 29
-: **Exam**{: .label .label-green } Midterm 1
-: - Covering materials up to (and including) Concentration - 1
+: **Exam**{: .label .label-green } Midterm 1 (Covering materials up to and including Concentration - 1)
