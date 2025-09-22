@@ -36,10 +36,14 @@ Sep 17
 
 Sep 22
 : **Lecture**{: .label .label-purple } Fundamentals: Concentration inequalities (Sub-gaussian, Hoeffding)
+: - [Notes for Concentration - 2](../assets/posted/lec7.pdf)
 
 
 Sep 24
 : **Lecture**{: .label .label-purple } Example: Generalization bounds
+
+Sept 26
+: **HW3 Due**{: .label .label-red}
 
 Sep 29
 : **Exam**{: .label .label-green } Midterm 1
