@@ -5,6 +5,8 @@ title: Linear & Functional Analysis
 Oct 1
 : **Lecture**{: .label .label-purple } Review: Linear Algebra
 : - Reading: Chapters 2.2, 2.4
+: - [Notes for Linear Algebra Review - 1](../assets/posted/lec10.pdf)
+: - **HW4 Out**{: .label .label-red} [Homework 4](../assets/posted/hw4.pdf)
 
 Oct 6
 : **Lecture**{: .label .label-purple } Review: Linear Algebra
@@ -13,6 +15,7 @@ Oct 6
 Oct 8
 : **Lecture**{: .label .label-purple } Fundamentals: Change of Basis
 : - Reading: Chapter 2.7
+: **HW4 Due**{: .label .label-red}
 
 Oct 13
 : **Lecture**{: .label .label-purple } Fundamentals: Inner product spaces and Orthogonality
