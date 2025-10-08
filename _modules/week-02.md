@@ -16,7 +16,8 @@ Oct 6
 Oct 8
 : **Lecture**{: .label .label-purple } Fundamentals: Change of Basis
 : - Reading: Chapter 2.7
-: **HW4 Due**{: .label .label-red} **HW5 Out**{: .label .label-red}
+: - [Notes for Change of Basis](../assets/posted/lec12.pdf)
+: **HW4 Due**{: .label .label-red} 
 
 Oct 13
 : **Lecture**{: .label .label-purple } Fundamentals: Inner product spaces and Orthogonality
@@ -25,7 +26,7 @@ Oct 13
 Oct 15
 : **Lecture**{: .label .label-purple } Fundamentals: Decompositions
 : - Reading: Chapters 4.1, 4.2, 4.4
-: **HW5 Due**{: .label .label-red} **HW6 Out**{: .label .label-red}
+: **HW5 Out**{: .label .label-red} 
 
 Oct 20
 : **Lecture**{: .label .label-purple } Example: Functional analysis, Hilbert spaces, Kernels
@@ -33,7 +34,7 @@ Oct 20
 
 Oct 22
 : **Lecture**{: .label .label-purple } Example: Representer theorems
-: **HW6 Due**{: .label .label-red}
+: **HW5 Due**{: .label .label-red}
 
 Oct 27
 : **Exam**{: .label .label-green } Midterm 2
