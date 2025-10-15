@@ -22,12 +22,12 @@ Oct 8
 Oct 13
 : **Lecture**{: .label .label-purple } Fundamentals: Inner product spaces and Projections
 : - Reading: Chapters 3.1–3.8
-: - [Notes for Inner product spaces and Projections](../assets/posted/lec13.pdf)
+: - [Notes for Inner product spaces and Projections - updated](../assets/posted/lec13_new.pdf)
 
 Oct 15
 : **Lecture**{: .label .label-purple } Fundamentals: Eigendecomposition and PCA
 : - Reading: Chapters 4.1, 4.2, 4.4
-: - [Notes for Eigendecomposition and PCA](../assets/posted/lec14.pdf)
+: - [Notes for Eigendecomposition and PCA - updated](../assets/posted/lec14_new.pdf)
 : **HW5 Out**{: .label .label-red} 
 
 Oct 20
