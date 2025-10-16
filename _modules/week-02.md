@@ -28,7 +28,7 @@ Oct 15
 : **Lecture**{: .label .label-purple } Fundamentals: Eigendecomposition and PCA
 : - Reading: Chapters 4.1, 4.2, 4.4
 : - [Notes for Eigendecomposition and PCA - updated](../assets/posted/lec14_new.pdf)
-: **HW5 Out**{: .label .label-red} 
+: **HW5 Out**{: .label .label-red} [Homework 5](../assets/posted/hw5.pdf)
 
 Oct 20
 : **Lecture**{: .label .label-purple } Example: Functional analysis, Hilbert spaces, Kernels
