@@ -33,10 +33,12 @@ Oct 15
 Oct 20
 : **Lecture**{: .label .label-purple } Example: Functional analysis, Hilbert spaces, Kernels
 : - Reading: Chapter 12.4
+: - [Notes for Functional Analysis](../assets/posted/lec15.pdf)
 
 Oct 22
 : **Lecture**{: .label .label-purple } Example: Representer theorems
 : **HW5 Due**{: .label .label-red}
+: - [Notes for Representer Theorem](../assets/posted/lec16.pdf)
 
 Oct 27
 : **Exam**{: .label .label-green } Midterm 2
