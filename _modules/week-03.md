@@ -5,7 +5,8 @@ title: Calculus & Optimization
 Oct 29
 : **Lecture**{: .label .label-purple } Review: Multivariate calculus
 : - Reading: Chapters 5.1–5.4
-: **HW6 Out**{: .label .label-red}
+: - [Notes for Multivariate Calculus](../assets/posted/lec17.pdf)
+: **HW6 Out**{: .label .label-red} [Homework 6](../assets/posted/hw6.pdf)
 
 Nov 3
 : **Lecture**{: .label .label-purple } Review: Multivariate calculus
