@@ -6,6 +6,7 @@ Oct 29
 : **Lecture**{: .label .label-purple } Review: Multivariate calculus
 : - Reading: Chapters 5.1–5.4
 : - [Notes for Multivariate Calculus](../assets/posted/lec17.pdf)
+: - [Notebook](https://colab.research.google.com/drive/12Us3q9OmzruDYcJjIPiFlSQMIa0b12Ys?usp=sharing)
 : **HW6 Out**{: .label .label-red} [Homework 6](../assets/posted/hw6.pdf)
 
 Nov 3
