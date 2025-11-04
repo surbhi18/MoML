@@ -44,6 +44,7 @@ Nov 26
 
 Dec 1
 : **No Class**{: .label .label-red }
+
 Dec 3
 : **Exam**{: .label .label-green } Midterm 3
 
