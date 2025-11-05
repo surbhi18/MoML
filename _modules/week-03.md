@@ -5,18 +5,19 @@ title: Calculus & Optimization
 Oct 29
 : **Lecture**{: .label .label-purple } Review: Multivariate calculus
 : - Reading: Chapters 5.1–5.4
-: - [Notes for Multivariate Calculus - 1](../assets/posted/lec17.pdf)
+: - [Notes for Multivariate Calculus - 1 -](../assets/posted/lec17.pdf)
 : - [Notebook](https://colab.research.google.com/drive/12Us3q9OmzruDYcJjIPiFlSQMIa0b12Ys?usp=sharing)
 : **HW6 Out**{: .label .label-red} [Homework 6](../assets/posted/hw6.pdf)
 
 Nov 3
 : **Lecture**{: .label .label-purple } Review: Multivariate calculus
 : - Reading: Chapters 5.5–5.7
-: - [Notes for Multivariate Calculus - 2](../assets/posted/lec18.pdf)
+: - [Notes for Multivariate Calculus - 2 - Updated](../assets/posted/lec18_new.pdf)
 
 Nov 5
 : **Lecture**{: .label .label-purple } Fundamentals: Multivariate Taylor Series
 : - Reading: Chapters 5.8–5.9
+: - [Notes for Multivariate Taylor Series](../assets/posted/lec19.pdf)
 : **HW6 Due**{: .label .label-red} **HW7 Out**{: .label .label-red}
 
 Nov 10
