@@ -18,7 +18,7 @@ Nov 5
 : **Lecture**{: .label .label-purple } Fundamentals: Multivariate Taylor Series
 : - Reading: Chapters 5.8–5.9
 : - [Notes for Multivariate Taylor Series](../assets/posted/lec19.pdf)
-: **HW6 Due**{: .label .label-red} **HW7 Out**{: .label .label-red}
+: **HW6 Due**{: .label .label-red} **HW7 Out**{: .label .label-red} [Homework 7](../assets/posted/hw7.pdf)
 
 Nov 10
 : **Lecture**{: .label .label-purple } Fundamentals: Gradient Descent
