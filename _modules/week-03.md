@@ -24,9 +24,11 @@ Nov 10
 : **Lecture**{: .label .label-purple } Fundamentals: Convex Optimization
 : - Reading: Chapter 7.3
 : - [Notes for Convex Optimization](../assets/posted/lec20.pdf)
+: - [Notebook](https://colab.research.google.com/drive/1EqBYGMAXWgMr7XpbhzhyjgNlTp8BzKJz?usp=sharing)
 
 Nov 12
 : **Lecture**{: .label .label-purple } Example: Gradient Descent Convergence
+: - [Notes for Gradient Descent Convergence](../assets/posted/lec21.pdf)
 : **HW7 Due**{: .label .label-red} **HW8 Out**{: .label .label-red}
 
 Nov 17
