@@ -29,7 +29,7 @@ Nov 10
 Nov 12
 : **Lecture**{: .label .label-purple } Example: Gradient Descent Convergence
 : - [Notes for Gradient Descent Convergence](../assets/posted/lec21.pdf)
-: **HW7 Due**{: .label .label-red} **HW8 Out**{: .label .label-red}
+: **HW7 Due**{: .label .label-red} **HW8 Out**{: .label .label-red} [Homework 8](../assets/posted/hw8.pdf)
 
 Nov 17
 : **Lecture**{: .label .label-purple } Example: SGD Convergence
