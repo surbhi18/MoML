@@ -33,7 +33,7 @@ Nov 12
 
 Nov 17
 : **Lecture**{: .label .label-purple } Example: SGD Convergence
-
+: - [Notes for SGD Convergence](../assets/posted/lec22.pdf)
 Nov 19
 : **Lecture**{: .label .label-purple } Fundamentals: Practical Aspects of Gradient Descent
 : **HW8 Due**{: .label .label-red} **HW9 Out**{: .label .label-red}
