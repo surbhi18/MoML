@@ -34,9 +34,11 @@ Nov 12
 Nov 17
 : **Lecture**{: .label .label-purple } Example: SGD Convergence
 : - [Notes for SGD Convergence](../assets/posted/lec22.pdf)
+: - [Notebook](https://colab.research.google.com/drive/1PbXRbrkLKsAURJNp4Lv5Ah_MWmTFSpvy?usp=sharing)
+
 Nov 19
 : **Lecture**{: .label .label-purple } Fundamentals: Practical Aspects of Gradient Descent
-: **HW8 Due**{: .label .label-red} **HW9 Out**{: .label .label-red}
+: - [Notes for Practical GD](../assets/posted/lec23.pdf)
 
 Nov 24
 : **Lecture**{: .label .label-purple } Bonus: Advanced Topics in Optimization
