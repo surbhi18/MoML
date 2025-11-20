@@ -39,13 +39,16 @@ Nov 17
 Nov 19
 : **Lecture**{: .label .label-purple } Fundamentals: Practical Aspects of Gradient Descent
 : - [Notes for Practical GD](../assets/posted/lec23.pdf)
+: - [Gemini Interactive Demo](https://gemini.google.com/share/efddc9a3bc55)
+: **HW8 Due**{: .label .label-red} **HW9 Out**{: .label .label-red} [Homework 9](../assets/posted/hw9.pdf)
 
 Nov 24
 : **Lecture**{: .label .label-purple } Bonus: Advanced Topics in Optimization
 
 Nov 26
 : **No Class**{: .label .label-red } Friday Schedule
-: **HW9 Due**{: .label .label-red} **HW10 Out**{: .label .label-red}
+
+Nov 28: : **HW9 Due**{: .label .label-red} **HW10 Out**{: .label .label-red}
 
 Dec 1
 : **No Class**{: .label .label-red }
@@ -54,8 +57,8 @@ Dec 3
 : **Exam**{: .label .label-green } Midterm 3
 
 Dec 8
-: **No Class**{: .label .label-red } NeurIPS 2025
-: **HW10 Due**{: .label .label-red} 
+: **No Class**{: .label .label-red } 
+: **HW10 Due**{: .label .label-red}
 
 
 
