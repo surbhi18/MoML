@@ -43,7 +43,8 @@ Nov 19
 : **HW8 Due**{: .label .label-red} **HW9 Out**{: .label .label-red} [Homework 9](../assets/posted/hw9.pdf)
 
 Nov 24
-: **Lecture**{: .label .label-purple } Bonus: Advanced Topics in Optimization
+: **Lecture**{: .label .label-purple } Constrained Optimization
+: - [Notes for Constrained Optimization](../assets/posted/lec24.pdf)
 
 Nov 26
 : **No Class**{: .label .label-red } Friday Schedule
