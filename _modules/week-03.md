@@ -49,16 +49,16 @@ Nov 24
 Nov 26
 : **No Class**{: .label .label-red } Friday Schedule
 
-Nov 28: : **HW9 Due**{: .label .label-red} **HW10 Out**{: .label .label-red}
-
 Dec 1
-: **No Class**{: .label .label-red }
+: **TA Session**{: .label .label-purple }  **HW9 Due**{: .label .label-red} **HW10 Out**{: .label .label-red}
 
 Dec 3
 : **Exam**{: .label .label-green } Midterm 3
 
 Dec 8
 : **No Class**{: .label .label-red } 
+
+Dec 10:
 : **HW10 Due**{: .label .label-red}
 
 
