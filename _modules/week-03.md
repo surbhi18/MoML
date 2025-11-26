@@ -50,7 +50,8 @@ Nov 26
 : **No Class**{: .label .label-red } Friday Schedule
 
 Dec 1
-: **TA Session**{: .label .label-purple }  **HW9 Due**{: .label .label-red} **HW10 Out**{: .label .label-red}
+: **TA Session**{: .label .label-purple }  
+: **HW9 Due**{: .label .label-red} **HW10 Out**{: .label .label-red}
 
 Dec 3
 : **Exam**{: .label .label-green } Midterm 3
