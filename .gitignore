@@ -9,3 +9,8 @@ node_modules/
 vendor/
 notes/*
 notebooks/*
+midterm-calculus.aux
+midterm-calculus.fdb_latexmk
+midterm-calculus.fls
+midterm-calculus.log
+midterm-calculus.out
