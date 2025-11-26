@@ -59,7 +59,7 @@ Dec 3
 Dec 8
 : **No Class**{: .label .label-red } 
 
-Dec 10:
+Dec 10
 : **HW10 Due**{: .label .label-red}
 
 
