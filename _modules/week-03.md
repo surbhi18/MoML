@@ -51,7 +51,7 @@ Nov 26
 
 Dec 1
 : **TA Session**{: .label .label-purple }  
-: **HW9 Due**{: .label .label-red} **HW10 Out**{: .label .label-red}
+: **HW9 Due**{: .label .label-red} **HW10 Out**{: .label .label-red} [Homework 10](../assets/posted/hw10.pdf)
 
 Dec 3
 : **Exam**{: .label .label-green } Midterm 3
